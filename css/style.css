@@ -1,0 +1,24 @@
+.boton{
+    width: 60px;
+    height: 60px;
+    font-size: 30px;
+}
+input {
+    width: 245px;
+    height: 40px;
+    font-size: 20px;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 75vh;
+}
+button {
+    background-color: rgb(233, 102, 227);
+}
+.botoni{
+    width: 252px;
+    height: 60px;
+    font-size: 30px;
+}
